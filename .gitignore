@@ -3,5 +3,7 @@
 /__pycache__
 /obj
 /auto-geometry-dash
-*.py
 /shuffled_images
+generate_dataset.py
+label_dataset.py
+labelutils.py
